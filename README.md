@@ -13,8 +13,8 @@ Pliki do każdego elementu/cwiczenia/etc są w odpowiednio podpisanym folderze.
 
 #Ćwiczenie1
 Chciałbym aby każdy z was stworzył z pomocą dokumentacji bootstrapa swoją stronę o czymkolwiek będziecie chcieli i tu są 2 opcje
-Opcja1 dla mniej,kopiujemy gotowe elementy jak klocki ze strony dokumentacji bootstrapa lub z materiałów które wam wysłałem
-Opcja2 a dla osób którym się bardzo nie chce przygotowałem szablon zmieńcie tam tylko zdjęcia i tekst i będzie git.
+Opcja1 dla mniej leniwych,kopiujemy gotowe elementy jak klocki ze strony dokumentacji bootstrapa lub z materiałów które wam wysłałem i budujemy z nich stronę
+Opcja2 dla osób którym się bardzo nie chce, przygotowałem szablon zmieńcie tam tylko zdjęcia i tekst i będzie git.
 
 #Ćwiczenie 2
 napisać to do niedzieli challenge
