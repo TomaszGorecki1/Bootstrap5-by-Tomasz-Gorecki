@@ -17,6 +17,6 @@ Opcja1 dla mniej leniwych,kopiujemy gotowe elementy jak klocki ze strony dokumen
 Opcja2 dla osób którym się bardzo nie chce, przygotowałem szablon zmieńcie tam tylko zdjęcia i tekst i będzie git.
 
 #Ćwiczenie 2
-napisać to do niedzieli challenge
+Dość zaawansowany projekt z blogiem, gdzie użyjemy jak największej ilości funkcji które są dostępne w ramach bootstrapa. Chcemy stworzyć coś takiego jak widzicie w folderze dla opornych, zalecam podzielenie ekranu na 2 i przepisywanie sobie samemu zmieniając właściwości zdjecia itd.
 
 Zachęcam do skorzystania z dobrych kursów które tłumaczą w lepszy i w dogłębny sposób bootstrapa, [dobry = nie po polsku niestety ale angielski jest najważniejszym językiem w programowaniu(xD)], najlepiej na platformie udemy bądź innej pochodnej
